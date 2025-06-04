@@ -28,7 +28,7 @@ You can support me on [Buy me a coffee](https://buymeacoffee.com/holostrawberry)
 
 ### 🌟 XL Lora Trainer
 
-* Can train LoRA and LoCon for Stable Diffusion XL, includes several model options for anime.
+* Can train LoRA, LoCon, LoHa and LoKr for Stable Diffusion XL, includes several model options for anime.
 * One click to install and start training.
 * Can work with multiple colab configurations, including T4 (free) and A100.
 * Offers most parameters while setting useful values behind the scenes to keep it simple.
